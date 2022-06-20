@@ -24,7 +24,7 @@ pipeline {
         }
 	    stage ('Complete'){
 		    steps{
-		    	echo "JOb Complete"
+		    	echo "JOb Complete=========> for my private branch"
 		    }
 	    }
     }
